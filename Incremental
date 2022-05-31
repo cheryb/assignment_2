@@ -1,0 +1,15 @@
+# assignment_2
+echo "# assignment_2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/cheryb/assignment_2.git
+git push -u origin main
+git branch outline description
+git branch specification
+git branch development
+git branch validation
+git branch initial version
+git branch intermediate versions
+gir branch final version
