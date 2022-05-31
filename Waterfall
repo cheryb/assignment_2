@@ -5,4 +5,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/cheryb/assignment_2.git
 git push -u origin main
-git 
+git branch requirements definition
+git branch system and software design
+git branch implementation and unit testing
+git branch integration and system testing
+git branch operation and maintenance
